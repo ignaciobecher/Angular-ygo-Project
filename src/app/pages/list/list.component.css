@@ -1,0 +1,9 @@
+.list {
+  width: 80%;
+  margin: auto;
+  margin-top: 2em;
+}
+
+.list input {
+  width: 100%;
+}
